@@ -1,0 +1,16 @@
+{
+    "name": "Fly.io CLI",
+    "id": "flyctl",
+    "version": "1.0.0",
+    "description": "flyctl is a command-line interface for fly.io",
+    "options": {
+        "version": {
+            "type": "string",
+            "default": "latest",
+            "description": "Select latest or enter a flyctl version"
+        }
+    },
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils"
+    ]
+}
