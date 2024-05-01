@@ -21,4 +21,4 @@ flyctl is a command-line interface for fly.io
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/charsleysa/features/blob/main/src/flyctl/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
